@@ -1,4 +1,4 @@
-## **🛒 Online Shopping Intent Predictor**
+## **🛒 Online Shopping Intention Analysis
 
 An end-to-end machine learning web application designed to evaluate customer purchasing intent in real-time, providing instant predictions alongside transparent confidence scoring using a trained Logistic Regression model and Flask.
 
